@@ -15,6 +15,14 @@ The solution includes:
 
 ---
 
+## ❓ Business Problem
+
+Retail companies need to understand sales performance, customer behavior, and logistics efficiency to optimize profitability and operations.
+
+This dashboard provides a unified view to support data-driven decision making.
+
+---
+
 ## 📁 Dataset
 
 * Source: Superstore Retail Dataset
@@ -112,6 +120,15 @@ Shipping performance and cost analysis
 * Power BI
 * DAX
 * Power Query
+
+---
+
+## 💡 Key Skills Demonstrated
+
+- Data modeling (star schema)
+- DAX calculations and context management
+- Data visualization best practices
+- Business analysis and insight generation
 
 ---
 
