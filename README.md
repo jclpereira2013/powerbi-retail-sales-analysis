@@ -1,4 +1,4 @@
-![Dashboard Overview](images/overview.png)
+![Dashboard Overview](images/Overview.png)
 
 # 📊 Power BI Superstore Dashboard
 
