@@ -1,3 +1,5 @@
+![Dashboard Overview](images/overview.png)
+
 # 📊 Power BI Superstore Dashboard
 
 ## 🧠 Project Overview
